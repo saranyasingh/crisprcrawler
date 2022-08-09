@@ -1,1 +1,3 @@
 # crisprcrawler
+
+This web crawler is intended to make the process of searching for CRISPR patent licenses more efficient. The goal is to scrape the internet to find press releases documenting CRISPR patent licenses. It takes an input of an array of companies, and searches each company in the list. It then returns a list of any relevant links that mention CRISPR alongside any of the companies in the original list. The final product is a list of relevant links that may contain documentation of CRISPR patent licenses. In the future, this web crawler can take other lists as inputs and search for different keywords.
